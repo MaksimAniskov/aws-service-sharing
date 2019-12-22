@@ -4,7 +4,10 @@ and access management on AWS leveraging Service Endpoint, shared services VPC an
 The solution demonstrates the approach touched upon by [Justin Davies](https://www.linkedin.com/in/mrjustind/)
 and [Bhavin Desai](https://www.linkedin.com/in/bhavin-desai/) in their brilliant session
 [The right AWS network architecture for the right reason (NET320)](https://youtu.be/Ot1kcQfUIdg?t=2288)
-during AWS re:Invent 2019. I highly recommend to watch the video.
+during AWS re:Invent 2019.
+Also [Androski Spicer](https://www.linkedin.com/in/androski-spicer-72484a23/) explained
+Interface Service Endpoints sharing in [From one to many: Evolving VPC design (ARC334)](https://youtu.be/qb-4PdLTsJs?t=3700).
+I highly recommend to watch the videos.
 
 ![AWS Private Link](README.images/private-link.png "AWS Private Link")
 
