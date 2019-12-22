@@ -1,5 +1,5 @@
 This CloudFormation template demonstrates a service-provider/service-consumer separation
-and access management on AWS leveraging Service Endpoint, shared services VPC and Transit Gateway.
+and access management on AWS leveraging Service Endpoint of Interface type, shared services VPC and Transit Gateway.
 
 The solution demonstrates the approach touched upon by [Justin Davies](https://www.linkedin.com/in/mrjustind/)
 and [Bhavin Desai](https://www.linkedin.com/in/bhavin-desai/) in their brilliant session
